@@ -27,7 +27,7 @@ Here are some of the key insights you'll find in this repository:
 
 ## Data Sources
 
-Our analysis is based on datasets taken from (Inside AirBnb)[http://insideairbnb.com/get-the-data/] and (Open platform for French public data)[https://www.data.gouv.fr/es/datasets/arrondissements-1/].
+Our analysis is based on datasets taken from [Inside AirBnb](http://insideairbnb.com/get-the-data/) and [Open platform for French public data](https://www.data.gouv.fr/es/datasets/arrondissements-1/).
 
 ## Requirements
 
