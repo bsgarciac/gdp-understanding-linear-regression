@@ -4,15 +4,6 @@
 
 Welcome to the Airbnb Investment Guide for Paris repository! In this project, we provide a comprehensive analysis and guide for potential Airbnb investors looking to maximize their returns in the beautiful city of Paris.
 
-## Table of Contents
-- [Airbnb Investment Guide for Paris](#airbnb-investment-guide-for-paris)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Key Insights](#key-insights)
-  - [Data Sources](#data-sources)
-  - [Requirements](#requirements)
-  - [Usage](#usage)
-
 ## Overview
 
 Paris is known as one of the most romantic and tourist-friendly cities in the world. This project aims to help investors make informed decisions about Airbnb property investments by analyzing key factors such as location, pricing, property characteristics, and more.
@@ -40,5 +31,5 @@ To run the code in this project, you'll need:
 ## Usage
 
 Clone this repository to your local machine.
-Open the Jupyter Notebook to explore the analysis and recommendations.
-Customize the analysis for your specific needs and investments.
+Open the Jupyter Notebook **analysis.ipynb** to explore the analysis and recommendations or take a look into **results.pdf** to get a summary of the conclusions achieved. 
+
