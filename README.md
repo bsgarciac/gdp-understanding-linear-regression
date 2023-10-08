@@ -1,12 +1,12 @@
-# Airbnb Investment Guide for Paris
+# GDP Understanding Using Linear Regression Model
 
-![Paris](data/paris.jpg)
+![GDP](data/gdp.jpg)
 
-Welcome to the Airbnb Investment Guide for Paris repository! In this project, we provide a comprehensive analysis and guide for potential Airbnb investors looking to maximize their returns in the beautiful city of Paris.
+This project aims to build a predictive model for a country's Gross Domestic Product (GDP) based on several economic and social indicators. Linear regression is employed to establish a relationship between these indicators and the GDP.
 
 ## Overview
 
-Paris is known as one of the most romantic and tourist-friendly cities in the world. This project aims to help investors make informed decisions about Airbnb property investments by analyzing key factors such as location, pricing, property characteristics, and more.
+In this project, we use Python with Scikit-learn to build a linear regression model for GDP prediction. Linear regression is a simple yet powerful technique for modeling relationships between a target variable (in this case, GDP) and one or more independent variables (economic indicators).
 
 ## Key Insights
 
@@ -18,7 +18,7 @@ Here are some of the key insights you'll find in this repository:
 
 ## Data Sources
 
-Our analysis is based on datasets taken from [Inside AirBnb](http://insideairbnb.com/get-the-data/) and [Open platform for French public data](https://www.data.gouv.fr/es/datasets/arrondissements-1/).
+Our analysis is based on datasets taken from [Gapminder](https://www.gapminder.org/data/).
 
 ## Requirements
 
@@ -26,10 +26,15 @@ To run the code in this project, you'll need:
 - Python 3.x
 - Pandas
 - Seaborn
-- Jupyter Notebook (for running the provided notebook)
+- Scikit-learn
+- NumPy
+- Matplotlib 
+- Jupyter Notebook (for running the provided notebooks)
 
 ## Usage
 
-Clone this repository to your local machine.
-Open the Jupyter Notebook **analysis.ipynb** to explore the analysis and recommendations or take a look into **results.pdf** to get a summary of the conclusions achieved. 
+1. Clone this repository to your local machine.
+2. Open and run the jupyter notebook **analysis.ipynb** to explore the exploratory data analysis. 
+3. Open and run the jupyter notebook **regression.ipynb** to review the model training and testing.
+4. Take a look into **results.pdf** to get a summary of the conclusions achieved. 
 
