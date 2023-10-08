@@ -1,6 +1,6 @@
 # GDP Understanding Using Linear Regression Model
 
-![GDP](data/gdp.jpg)
+![GDP](data/gdp-min.jpg)
 
 This project aims to build a predictive model for a country's Gross Domestic Product (GDP) based on several economic and social indicators. Linear regression is employed to establish a relationship between these indicators and the GDP.
 
