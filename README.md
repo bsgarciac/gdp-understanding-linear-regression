@@ -28,5 +28,5 @@ To run the code in this project, you'll need:
 1. Clone this repository to your local machine.
 2. Open and run the jupyter notebook **analysis.ipynb** to explore the exploratory data analysis. 
 3. Open and run the jupyter notebook **regression.ipynb** to review the model training and testing.
-4. Take a look into **results.pdf** to get a summary of the conclusions achieved. 
+4. Take a look into **results.pdf** to get a summary of the conclusions achieved and **policies to improve the GDP value**. 
 
