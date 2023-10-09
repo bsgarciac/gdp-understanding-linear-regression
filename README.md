@@ -8,14 +8,6 @@ This project aims to build a predictive model for a country's Gross Domestic Pro
 
 In this project, we use Python with Scikit-learn to build a linear regression model for GDP prediction. Linear regression is a simple yet powerful technique for modeling relationships between a target variable (in this case, GDP) and one or more independent variables (economic indicators).
 
-## Key Insights
-
-Here are some of the key insights you'll find in this repository:
-- Optimal arrondissements for Airbnb investments.
-- Pricing strategies for competitive rates.
-- Essential property characteristics to attract guests.
-- Analysis of ratings and reviews.
-
 ## Data Sources
 
 Our analysis is based on datasets taken from [Gapminder](https://www.gapminder.org/data/).
